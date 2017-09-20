@@ -1,2 +1,2 @@
 # hello-world
-blah
+A little about myself...
